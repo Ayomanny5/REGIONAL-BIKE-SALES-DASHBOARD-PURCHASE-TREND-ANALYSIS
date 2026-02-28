@@ -118,10 +118,11 @@ Executive-level storytelling with data
 # 👤 Author
 
 Ayooluwa Adesina
+
+
 Data Analyst | Business Analytics | Excel & Dashboarding
 
 # 📝 Notes
 
 This project was built as part of a data analytics portfolio to demonstrate proficiency in Excel-based analysis workflows — from raw data to actionable insights.
-Feel free to connect or reach out with feedback!.
 
